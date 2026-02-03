@@ -1,0 +1,27 @@
+# Credentials - NEVER COMMIT
+.envrc
+.env
+.env.local
+
+# Build artifacts
+bin/
+dist/
+*.exe
+jira-hours
+
+# State files
+.state/
+
+# Go
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

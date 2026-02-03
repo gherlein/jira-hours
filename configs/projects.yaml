@@ -1,0 +1,37 @@
+projects:
+  NPU:
+    ticket: NPU-25
+    description: Master Epic for Tracking AI/NPU work
+  MGNT:
+    ticket: BCN-13815
+    description: Management Cloud
+  MIG:
+    ticket: BCN-17538
+    description: Master Epic BSNEE/BSN.com Migration to BSN.cloud
+  SEC:
+    ticket: BCN-17640
+    description: Manage and Correct all Security Issues for Cloud and Client
+  PROV:
+    ticket: BCN-17540
+    description: Refactor Provisioning to eliminate security issues and streamline workflow
+  AT:
+    ticket: QE-816
+    description: Master Epic roll up all implementation work for fully automated testing
+  MOB:
+    ticket: BCN-17963
+    description: Master Epic for Refresh of the BrightSign Mobile Application Suite
+  BOS:
+    ticket: OS-16156
+    description: Moka and Walmart work
+  HWC:
+    ticket: PE-203
+    description: Meta HW Compute
+  THOR:
+    ticket: OS-17165
+    description: Thor OS Phase 2 Epic
+  CLOUD:
+    ticket: BCN-16939
+    description: Security/SOC2 Related Work
+  OAUTH:
+    ticket: BCN-15686
+    description: Authentication Phase 1 SSO support

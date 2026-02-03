@@ -1,0 +1,62 @@
+month: 2026-01
+hours:
+  - code: NPU
+    week1: 12
+    week2: 13
+    week3: 10
+    week4: 12
+  - code: MGNT
+    week1: 24
+    week2: 10
+    week3: 11
+    week4: 13
+  - code: MIG
+    week1: 0
+    week2: 8
+    week3: 2
+    week4: 2
+  - code: SEC
+    week1: 2
+    week2: 2
+    week3: 2
+    week4: 0
+  - code: PROV
+    week1: 3
+    week2: 8
+    week3: 5
+    week4: 4
+  - code: AT
+    week1: 0
+    week2: 2
+    week3: 0
+    week4: 0
+  - code: MOB
+    week1: 0
+    week2: 0
+    week3: 0
+    week4: 2
+  - code: BOS
+    week1: 0
+    week2: 0
+    week3: 0
+    week4: 0
+  - code: HWC
+    week1: 0
+    week2: 0
+    week3: 0
+    week4: 0
+  - code: THOR
+    week1: 1
+    week2: 1
+    week3: 1
+    week4: 1
+  - code: CLOUD
+    week1: 0
+    week2: 0
+    week3: 0
+    week4: 0
+  - code: OAUTH
+    week1: 0
+    week2: 0
+    week3: 0
+    week4: 0
